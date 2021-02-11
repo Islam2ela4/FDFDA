@@ -9,8 +9,6 @@
   
 like note application but design like chat application.
 
-Used tech. >> MVC design pattern, IO File.
-
 
 
 
