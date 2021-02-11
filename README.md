@@ -7,7 +7,9 @@
   that encouraged me to introduce this application is that many people like to talk to themselves every day 
   which allowed me to help them.
   
-like note application.
+like note application but design like chat application.
+
+Used tech. >> MVC design pattern, IO File.
 
 
 
